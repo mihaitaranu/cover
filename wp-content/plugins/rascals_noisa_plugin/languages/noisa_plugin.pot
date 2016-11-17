@@ -1,0 +1,2513 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NOISA Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-02 18:34+0100\n"
+"POT-Revision-Date: Thu Apr 21 2016 20:58:10 GMT+0200 (Central European "
+"Daylight Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: admin <office@rascals.eu>\n"
+"Language-Team: Rascals Themes <support@rascals.eu>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: en_GB\n"
+"X-Poedit-SearchPath-0: .."
+
+#. Name of the plugin
+msgid "Rascals Themes - NOISA Plugin"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://rascals.eu"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a complimentary plugin for the \"NOISA\" WordPress theme. You can use "
+"it to create, manage and update Custom Posts Types. It also has some useful "
+"shortcodes available to use."
+msgstr ""
+
+#. Author of the plugin
+msgid "Mariusz Rek - Rascals Themes"
+msgstr ""
+
+#. Name of the plugin
+msgid "NOISA Plugin"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:45
+msgid "Select slider..."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:74
+msgid "Select tracks..."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:109
+msgid "Intro Header Options"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:143
+msgid "Page Title"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/metaboxes/metaboxes.php:144 ../includes/shortcodes/vc-extend.php:
+#: 205 ../includes/shortcodes/vc-extend.php:1215 ../includes/shortcodes/vc-extend.
+#: php:1292 ../includes/shortcodes/vc-extend.php:2304
+msgid "Content"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:145 ../includes/metaboxes/metaboxes.php:159
+msgid "Full Screen Image"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:146 ../includes/metaboxes/metaboxes.php:160
+msgid "Full Screen Image with Content"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:147 ../includes/metaboxes/metaboxes.php:
+#: 647 ../includes/metaboxes/metaboxes.php:1675
+msgid "Image"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:148
+msgid "Image Zoom Out"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:149 ../includes/metaboxes/metaboxes.php:161
+msgid "Full Screen Slider"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/metaboxes/metaboxes.php:150 ../includes/metaboxes/metaboxes.php:
+#: 330 ../includes/post-types/post-types.php:1548 ../includes/post-types/post-
+#: types.php:1549 ../includes/shortcodes/vc-extend.php:267
+msgid "Slider"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:151
+msgid "YouTube Background"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:152 ../includes/metaboxes/metaboxes.php:162
+msgid "Full Screen YouTube Background"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:153
+msgid "Google Map"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:154 ../includes/metaboxes/metaboxes.php:
+#: 216 ../includes/metaboxes/metaboxes.php:245
+msgid "Disabled"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:168
+msgid "Featured Post"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:173
+msgid "Artist Profile"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:179
+msgid "Intro Header Type"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:185
+msgid "Select intro."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:188
+msgid "Background Image"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:194
+msgid "Header image."
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/metaboxes/metaboxes.php:199 ../includes/shortcodes/vc-extend.php:
+#: 1451
+msgid "Height"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:204
+msgid "px"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:206
+msgid "Header section min. height."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:211 ../includes/shortcodes/vc-extend.php:137
+msgid "Overlay"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:217
+msgid "Gradient"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:218
+msgid "Grid"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:219
+msgid "Animated Noise"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:220
+msgid "Dots"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:222
+msgid "Select overlay type."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:228
+msgid "Graident"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:240
+msgid "Image Effect"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:246
+msgid "Zoom"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:247
+msgid "Parallax"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:249
+msgid "Select Image effect."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:254
+msgid "Animated"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:258
+msgid "Enable animated effects."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:263
+msgid "Zoom Effect"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:267
+msgid "If this opion is on, you should see zoom effect on intro section."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:272
+msgid "Scroll Icon"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:276
+msgid "If this opion is on, you should see scroll icon on intro section."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:281
+msgid "Header Title"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:287
+msgid "Add intro title."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:292
+msgid "Header Subtitle"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:298
+msgid "Add intro subtitle."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:303
+msgid "Captions Align"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:308
+msgid "Left"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:309
+msgid "Center"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:311
+msgid "Caption Align."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:317
+msgid "Extra Classes"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:323
+msgid "Style intro captions - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:337
+msgid ""
+"Select your slider; images min width must be 1920. If there are no sliders "
+"available, then you can add a slider and images using Slider custom posts "
+"menu on the left."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:342
+msgid "Background"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:348
+msgid "Generate intro background."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:353
+msgid "Header Content"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:362
+msgid "Add text to the intro section below the title."
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/metaboxes/metaboxes.php:367 ../includes/shortcodes/vc-extend.php:
+#: 1460
+msgid "Address"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:373
+msgid "Add address to Google Map."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:380
+msgid "YouTube ID"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:388
+msgid "Add YouTube movie ID."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:395
+msgid "Intro Tabs"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:401
+msgid ""
+"Add intro tabs: ROW_ID|Title. ROW_ID must correspond with Visual Composer "
+"ROW ID (must be the same). ex:"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:411
+msgid "Artist Image"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:417
+msgid "Artist profile image."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:422
+msgid "Social Buttons"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:428
+msgid "Add social button: icon_name|http://yourlink. ex:"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:436
+msgid "Play Music Button"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:441
+msgid ""
+"Select your tracks, then \"Play\" button will be visible. If there are no "
+"tracks available, then you can add a audio tracks using TRACKS custom posts "
+"menu on the left."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:446
+msgid "Play Music Button Title"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/metaboxes/metaboxes.php:450 ../includes/shortcodes/vc-extend.php:
+#: 1067 ../includes/shortcodes/vc-extend.php:1304
+msgid "Button title."
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/metaboxes/metaboxes.php:457 ../includes/shortcodes/vc-extend.php:
+#: 1009
+msgid "Buttons"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:463
+msgid "Add custom button: title|http://yourlink|target. ex:"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:491
+msgid "Layout Options"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:517
+msgid "Layout"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:529
+msgid "Choose the page layout."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:532
+msgid "Custom Sidebar"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:538
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:540
+msgid "Select custom or primary sidebar."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:559
+msgid "Blog Options"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:583
+msgid "Blog Posts Per Page"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:588 ../includes/metaboxes/metaboxes.php:
+#: 859 ../includes/metaboxes/metaboxes.php:1006 ../includes/metaboxes/metaboxes.
+#: php:1128
+msgid "items"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:590
+msgid "Number of blog posts visible on page."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:595
+msgid "Blog Grid Layout"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:600 ../includes/metaboxes/metaboxes.php:
+#: 884 ../includes/metaboxes/metaboxes.php:980 ../includes/metaboxes/metaboxes.
+#: php:1102 ../includes/metaboxes/metaboxes.php:1453
+msgid "Boxed"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:601 ../includes/metaboxes/metaboxes.php:
+#: 885 ../includes/metaboxes/metaboxes.php:981 ../includes/metaboxes/metaboxes.
+#: php:1103 ../includes/metaboxes/metaboxes.php:1454
+msgid "Full width"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:603
+msgid "Select blog grid layout."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:620
+msgid "Post Format Options"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:641
+msgid "Post Format"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:646
+msgid "Standard"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:648 ../includes/post-types/post-types.php:
+#: 1313 ../includes/widgets/widget-gallery.php:81
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:649
+msgid "Video"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:650
+msgid "Quote"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/metaboxes/metaboxes.php:651 ../includes/metaboxes/metaboxes.php:
+#: 654 ../includes/shortcodes/vc-extend.php:1072 ../includes/shortcodes/vc-extend.
+#: php:1177 ../includes/shortcodes/vc-extend.php:1309 ../includes/shortcodes/vc-
+#: extend.php:1643 ../includes/shortcodes/vc-extend.php:1831 ..
+#: includes/shortcodes/vc-extend.php:2108 ../includes/shortcodes/vc-extend.php:
+#: 2184
+msgid "Link"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:652
+msgid "Audio - Soundcloud"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:653
+msgid "Audio - Album"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:657
+msgid "Select post format type."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:662
+msgid "Gallery Slider"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:667
+msgid ""
+"Select slider; If there are no sliders available, then you can add a slider "
+"and images using Slider custom posts menu on the left. Select your slider. "
+"If there are no sliders available, then you can add a slider and images "
+"using Slider custom posts menu on the left. NOTE: Only working with GALLERY "
+"post format."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:674
+msgid "Video YouTube"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:682
+msgid "Add YouTube movie ID. NOTE: Only working with VIDEO post format."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:689
+msgid "Video Vimeo"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:697
+msgid "Add Vimeo movie ID. NOTE: Only working with VIDEO post format."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:705
+msgid "Soundcloud Audio"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:711
+msgid ""
+"Paste iframe code from soundcloud track. NOTE: Only working with AUDIO post "
+"format."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:718
+msgid "Audio Album"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:723
+msgid ""
+"Select your tracks; If there are no tracks available, then you can add a "
+"audio tracks using TRACKS custom posts menu on the left."
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/metaboxes/metaboxes.php:728 ../includes/metaboxes/metaboxes.php:
+#: 1689 ../includes/metaboxes/fields/media_manager/media_manager.php:738 ..
+#: includes/metaboxes/fields/media_manager/media_manager.php:788 ..
+#: includes/post-types/post-types.php:140 ../includes/post-types/post-types.php:
+#: 404 ../includes/post-types/post-types.php:1383 ../includes/post-types/post-
+#: types.php:1594 ../includes/post-types/scamp-player.php:97 ..
+#: includes/shortcodes/vc-extend.php:1063 ../includes/shortcodes/vc-extend.php:
+#: 1147 ../includes/shortcodes/vc-extend.php:1252 ../includes/shortcodes/vc-
+#: extend.php:1371
+msgid "Title"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:732
+msgid "Album title."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:737 ..
+#: includes/metaboxes/fields/media_manager/media_manager.php:854 ..
+#: includes/post-types/post-types.php:70 ../includes/post-types/post-types.php:
+#: 71 ../includes/post-types/post-types.php:354 ../includes/post-types/post-types.
+#: php:406 ../includes/post-types/post-types.php:697 ../includes/post-types/post-
+#: types.php:854 ../includes/post-types/post-types.php:1357 ../includes/post-
+#: types/post-types.php:1386
+msgid "Artists"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:741
+msgid "Album Artists."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:746
+msgid "Album Image"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:752
+msgid "Album cover."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:759
+msgid "Quote Text"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:765 ../includes/metaboxes/metaboxes.php:774
+msgid "Quote text."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:770
+msgid "Quote Author"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:779
+msgid "Quote Link"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:783
+msgid "Quote link."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:790
+msgid "Link Title"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:794
+msgid "Link title."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:799
+msgid "Link URL"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:803
+msgid "Link URL."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:808
+msgid "Open in New Window?"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:812
+msgid "Open link in new window."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:831
+msgid "Artists Options"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:854
+msgid "Artists Per Page"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:861
+msgid "Number of artists visible on page."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:866 ../includes/metaboxes/metaboxes.php:
+#: 988 ../includes/metaboxes/metaboxes.php:1110 ../includes/metaboxes/metaboxes.
+#: php:1435
+msgid "Thumbnails Gap"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:871 ../includes/metaboxes/metaboxes.php:
+#: 993 ../includes/metaboxes/metaboxes.php:1115 ../includes/metaboxes/metaboxes.
+#: php:1440
+msgid "Small Gap"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:872 ../includes/metaboxes/metaboxes.php:
+#: 994 ../includes/metaboxes/metaboxes.php:1116 ../includes/metaboxes/metaboxes.
+#: php:1441
+msgid "Medium gap"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:874 ../includes/metaboxes/metaboxes.php:
+#: 996 ../includes/metaboxes/metaboxes.php:1118 ../includes/metaboxes/metaboxes.
+#: php:1443
+msgid "Display gap between thumbnails."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:879
+msgid "Grid Layout"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:887
+msgid "Select grid layout."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:904 ../includes/metaboxes/metaboxes.php:1025
+msgid "Thumbnail Options"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:927 ../includes/metaboxes/metaboxes.php:1048
+msgid "Tooltip"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:933 ../includes/metaboxes/metaboxes.php:1054
+msgid "Add tooltip text ex:"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:952
+msgid "Releases Options"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:975
+msgid "Thumbnails Layout"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:983
+msgid "Select thumbnails grid layout."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1001
+msgid "Releases Limit"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1008
+msgid "Number of releases items limit."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1073
+msgid "Albums Options"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1097
+msgid "Gallery Grid Layout"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1105 ../includes/metaboxes/metaboxes.php:
+#: 1456
+msgid "Select gallery grid layout."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1123
+msgid "Albums Per Page"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1130
+msgid "Number of albums visible on page."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1147
+msgid "Album Images"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1172
+msgid ""
+"Currently you don't have any photos, you can add them by clicking on the "
+"button below."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1173
+msgid "Add Photos"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1174
+msgid "Add photos."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1174 ../includes/metaboxes/metaboxes.php:
+#: 1259 ../includes/metaboxes/metaboxes.php:1305
+msgid ""
+"NOTE: Please use the CTRL key (PC) or COMMAND key (Mac) to select multiple "
+"items."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1188
+msgid "Album Options"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1209
+msgid "Images Limit"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1216
+msgid "Number of images limit on page."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1233
+msgid "Audio Tracks"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1257
+msgid ""
+"Currently you don't have any audio tracks, you can add them by clicking on "
+"the button below."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1258
+msgid "Add Tracks"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1259
+msgid "Add audio tracks."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1278
+msgid "Slider Images"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1303
+msgid ""
+"Currently you don't have any images, you can add them by clicking on the "
+"button below."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1304 ..
+#: includes/metaboxes/fields/media_manager/media_manager.php:134
+msgid "Add Images"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1305
+msgid "Add images to slider."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1320
+msgid "Slider Options"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1340
+msgid "Navigation"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1344
+msgid "If this opion is on, then you should see the slider navigation."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1347
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1351
+msgid "If this opion is on, then you should see the slider pagination."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1354
+msgid "Animation Speed"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1361
+msgid "Slider animation speed."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1364
+msgid "Pause Time"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1371
+msgid ""
+"Determines how long each slide will be shown.  NOTE: Value \"0\" disable "
+"slider timer. Timer is disabled if slider has video background."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1388 ../includes/metaboxes/metaboxes.php:
+#: 1486
+msgid "Events Options"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1410 ../includes/metaboxes/metaboxes.php:
+#: 1509
+msgid "Events Type"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1415 ../includes/metaboxes/metaboxes.php:
+#: 1514
+msgid "Future events"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1416 ../includes/metaboxes/metaboxes.php:
+#: 1515
+msgid "Past events"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1417 ../includes/metaboxes/metaboxes.php:
+#: 1516
+msgid "All events"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1420 ../includes/metaboxes/metaboxes.php:
+#: 1519
+msgid "Choose the events type."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1423 ../includes/metaboxes/metaboxes.php:
+#: 1524
+msgid "Events Limit"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1430 ../includes/metaboxes/metaboxes.php:
+#: 1531
+msgid "Number of events limit."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1448
+msgid "Events Grid Layout"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1461
+msgid "Thumbnail Style"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1466
+msgid "Default"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1467
+msgid "Inverted"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1469
+msgid "Select thumb style."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1548 ../includes/metaboxes/metaboxes.php:
+#: 1570 ../includes/post-types/post-types.php:849
+msgid "Event Date"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1576
+msgid "Enter the event date; eg 2010-09-11"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1579
+msgid "Event Time"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1585
+msgid "Enter the event time; eg 21:00 or 09:00 pm"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1588 ../includes/post-types/post-types.php:
+#: 853
+msgid "Repeat"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1593
+msgid "None"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1594
+msgid "Weekly"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1598
+msgid "Repeat event."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1601
+msgid "Every"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1606
+msgid "week(s)"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1610
+msgid "Repeat event every week(s)."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1613
+msgid "Day(s)"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1618
+msgid "Monday"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1619
+msgid "Tuesday"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1620
+msgid "Wednesday"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1621
+msgid "Thursday"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1622
+msgid "Friday"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1623
+msgid "Saturday"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1624
+msgid "Sunday"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1628
+msgid "Please use the CTRL key (PC) or COMMAND key (Mac) to select multiple items."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1645
+msgid "Share Options"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1684
+msgid "Add Image"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1685
+msgid ""
+"Currently you don't have share image, you can add one by clicking on the "
+"button below."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1686
+msgid ""
+"Use images that are at least 1200 x 630 pixels for the best display on high "
+"resolution devices. At the minimum, you should use images that are 600 x 315 "
+"pixels to display link page posts with larger images. If share data isn't "
+"visible on Facebook, please use this link:"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1693
+msgid "A clear title without branding or mentioning the domain itself."
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1696
+msgid "Short Description"
+msgstr ""
+
+#: ../includes/metaboxes/metaboxes.php:1702
+msgid "A clear description, at least two sentences long."
+msgstr ""
+
+#: ../includes/metaboxes/fields/add_image/add_image.php:88 ..
+#: includes/metaboxes/fields/media_manager/media_manager.php:231 ..
+#: includes/metaboxes/fields/media_manager/media_manager.php:896
+msgctxt "MuttleyBox Class"
+msgid "Preview Image"
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:121
+msgctxt "MuttleyBox Class"
+msgid "Generate Background"
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:123
+msgctxt "MuttleyBox Class"
+msgid "Remove"
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:142
+msgctxt "MuttleyBox Class"
+msgid "Background Type"
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:149
+msgctxt "MuttleyBox Class"
+msgid "Select background type."
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:156
+msgctxt "MuttleyBox Class"
+msgid "Color"
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:157
+msgctxt "MuttleyBox Class"
+msgid "Transparent: "
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:161
+msgctxt "MuttleyBox Class"
+msgid "Select background color."
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:171
+msgctxt "MuttleyBox Class"
+msgid "File URL "
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:173
+msgctxt "MuttleyBox Class"
+msgid "Enter image URL for your background."
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:176
+msgctxt "MuttleyBox Class"
+msgid "Position"
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:189
+#, php-format
+msgctxt "MuttleyBox Class"
+msgid ""
+"The first value is the horizontal position and the second value is the "
+"vertical. The top left corner is 0 0. Units can be pixels (0px 0px) or any "
+"other CSS units. If you specify only one value, the other value will be 50%. "
+"You can mix % and positions"
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:193
+msgctxt "MuttleyBox Class"
+msgid "Custom"
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:198
+msgctxt "MuttleyBox Class"
+msgid "Repeat"
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:205
+msgctxt "MuttleyBox Class"
+msgid ""
+"The background-repeat property sets if/how a background image will be "
+"repeated."
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:209
+msgctxt "MuttleyBox Class"
+msgid "Attachment"
+msgstr ""
+
+#: ../includes/metaboxes/fields/bg_generator/bg_generator.php:214
+msgctxt "MuttleyBox Class"
+msgid ""
+"The background-attachment property sets whether a background image is fixed "
+"or scrolls with the rest of the page."
+msgstr ""
+
+#: ../includes/metaboxes/fields/easy_link/easy_link.php:114
+msgid "Insert Link"
+msgstr ""
+
+#: ../includes/metaboxes/fields/easy_link/easy_link.php:131 ..
+#: includes/metaboxes/fields/media_manager/media_manager.php:523
+msgid "Search"
+msgstr ""
+
+#: ../includes/metaboxes/fields/gradient/gradient.php:98
+msgctxt "MuttleyBox Class"
+msgid "From:"
+msgstr ""
+
+#: ../includes/metaboxes/fields/gradient/gradient.php:103
+msgctxt "MuttleyBox Class"
+msgid "To:"
+msgstr ""
+
+#: ../includes/metaboxes/fields/gradient/gradient.php:108
+msgctxt "MuttleyBox Class"
+msgid "Direction:"
+msgstr ""
+
+#: ../includes/metaboxes/fields/iframe_generator/iframe_generator.php:120
+msgid "Generate Iframe"
+msgstr ""
+
+#: ../includes/metaboxes/fields/iframe_generator/iframe_generator.php:122 ..
+#: includes/post-types/scamp-player.php:175
+msgid "Remove"
+msgstr ""
+
+#: ../includes/metaboxes/fields/iframe_generator/iframe_generator.php:124
+msgid "Error: Content does not contain the iframe."
+msgstr ""
+
+#: ../includes/metaboxes/fields/iframe_generator/iframe_generator.php:142
+msgid "Iframe Code"
+msgstr ""
+
+#: ../includes/metaboxes/fields/iframe_generator/iframe_generator.php:145
+msgid "Paste Iframe code here.."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:138
+msgid ""
+"Currently slider does not have images, you can add them by clicking on "
+"button below."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:187
+msgid "Error: Image file doesn't exists."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:248
+msgid "Error: Audio file doesn't exists."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:259
+msgid "Error: AJAX Transport"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:267
+msgid "Add Custom Track"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:270
+msgid "Remove Selected"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:526
+msgid "Select All:"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:536
+msgid "Load Next 30 Items"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:666 ..
+#: includes/shortcodes/shortcodes.php:305 ../includes/shortcodes/shortcodes.php:
+#: 1363 ../includes/shortcodes/shortcodes.php:1667 ../includes/shortcodes/vc-
+#: extend.php:598 ../includes/shortcodes/vc-extend.php:1739 ..
+#: includes/shortcodes/vc-extend.php:1927
+msgid "View More"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:677
+msgid "Error: File does not exist!"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:711
+msgid "File name:"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:712
+msgid "File type:"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:713
+msgid "Upload date:"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:716
+msgid "Dimensions:"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:718
+msgid "Image URL:"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:719
+msgid "[IMAGE LINK]"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:733
+msgid "YouTube Video Background"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:735
+msgid "Type Youtube video ID e.g: 1XZGulDxz9o. Replace image on video background."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:735
+msgid "NOTE: Displayed only on desktop devices."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:735 ..
+#: includes/metaboxes/fields/media_manager/media_manager.php:753 ..
+#: includes/metaboxes/fields/media_manager/media_manager.php:761 ..
+#: includes/metaboxes/fields/media_manager/media_manager.php:776
+msgid "NOTE: Displayed only on Intro slider section."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:740 ..
+#: includes/metaboxes/fields/media_manager/media_manager.php:790
+msgid "Title for the image."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:743
+msgid "Subtitle"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:745
+msgid "Subtitle for the image."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:751
+msgid "Slider Button Title"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:753 ..
+#: includes/metaboxes/fields/media_manager/media_manager.php:761
+msgid "Paste slider button URL."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:759
+msgid "Slider Button URL"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:765
+msgid "Slider Button Target"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:776
+msgid "Select buton target."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:794
+msgid "Custom Link"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:796
+msgid "Add custom link to popup window. ex:"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:812
+msgid "Thumbnail Icon"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:823
+msgid "Select thumb icon."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:840
+msgid "Custom title"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:842
+msgid "Release/Track Title"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:844
+msgid "Title for the audio."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:848
+msgid "Release/Track URL"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:850
+msgid ""
+"Paste here link to the MP3 file or link to Soundcloud track, list, favorite "
+"tracks."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:856
+msgid "Track artists."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:861
+msgid "Artists URL"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:863
+msgid "Paste artist URL."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:867
+msgid "Artists Link Target"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:878 ..
+#: includes/metaboxes/fields/media_manager/media_manager.php:938 ..
+#: includes/metaboxes/fields/media_manager/media_manager.php:960
+msgid "Select target link."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:881
+msgid "Track Links"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:883
+msgid ""
+"Add player buttons. Add player links. Button example:\n"
+"	[track_button link=\"#\" icon=\"soundcloud\" target=\"_self\"]."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:889
+msgid "Track Cover Image URL"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:915
+msgid "Add image cover."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:921
+msgid "Release URL"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:923
+msgid "Paste release URL."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:927
+msgid "Release Link Target"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:943
+msgid "Cart URL"
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:945
+msgid "Paste cart URL."
+msgstr ""
+
+#: ../includes/metaboxes/fields/media_manager/media_manager.php:949
+msgid "Cart Link Target"
+msgstr ""
+
+#. Name of the plugin
+msgid "Rascals NOISA Plugin"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:72 ../includes/post-types/post-types.php:
+#: 324 ../includes/post-types/post-types.php:638 ../includes/post-types/post-
+#: types.php:1550 ../includes/post-types/scamp-player.php:53
+msgid "Add New"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:73
+msgid "Add New Artist"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:74
+msgid "Edit Artist"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:75
+msgid "New Artist"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:76
+msgid "View Artist"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:77 ../includes/post-types/post-types.php:
+#: 329 ../includes/post-types/post-types.php:643 ../includes/post-types/post-
+#: types.php:1320 ../includes/post-types/post-types.php:1555
+msgid "Search Items"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:78
+msgid "No artists found"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:79
+msgid "No artists found in Trash"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:102 ../includes/post-types/post-types.
+#: php:142 ../includes/post-types/post-types.php:366 ../includes/post-types/post-
+#: types.php:407
+msgid "Genres"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:103
+msgid "genre"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:114 ../includes/post-types/post-types.
+#: php:143 ../includes/post-types/post-types.php:378 ../includes/post-types/post-
+#: types.php:408 ../includes/post-types/post-types.php:685 ../includes/post-
+#: types/post-types.php:856 ../includes/post-types/post-types.php:1345 ..
+#: includes/post-types/post-types.php:1385 ../includes/shortcodes/vc-extend.php:
+#: 1540
+msgid "Categories"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:115 ../includes/post-types/post-types.
+#: php:686 ../includes/post-types/post-types.php:698 ../includes/post-types/post-
+#: types.php:1346 ../includes/post-types/post-types.php:1358
+msgid "category"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:141
+msgid "Artists Preview"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:144 ../includes/post-types/post-types.
+#: php:409 ../includes/post-types/post-types.php:1387 ../includes/post-types/post-
+#: types.php:1596 ../includes/post-types/scamp-player.php:99
+msgid "Date"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:201 ../includes/post-types/post-types.
+#: php:516
+msgid "All Genres"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:243 ../includes/post-types/post-types.
+#: php:558 ../includes/post-types/post-types.php:1157 ../includes/post-types/post-
+#: types.php:1444
+msgid "All Categories"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:322 ../includes/post-types/post-types.
+#: php:323
+msgid "Releases"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:325
+msgid "Add New Release"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:326
+msgid "Edit Release"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:327
+msgid "New Release"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:328
+msgid "View Release"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:330
+msgid "No releases found"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:331
+msgid "No releases found in Trash"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:355
+msgid "Artist"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:367
+msgid "Genre"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:379
+msgid "Category"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:405
+msgid "Releases Preview"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:474 ../includes/post-types/post-types.
+#: php:1199 ../includes/post-types/post-types.php:1486
+msgid "All Artists"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:636 ../includes/post-types/post-types.
+#: php:637 ../includes/shortcodes/vc-extend.php:1955
+msgid "Events"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:639
+msgid "Add New Event"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:640
+msgid "Edit Event"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:641
+msgid "New Event"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:642
+msgid "View Event"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:644
+msgid "No slider events found"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:645
+msgid "No events found in Trash"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:658
+msgid "events"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:668 ../includes/post-types/post-types.
+#: php:669 ../includes/shortcodes/vc-extend.php:1965
+msgid "Event Type"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:709 ../includes/post-types/post-types.
+#: php:855
+msgid "Locations"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:710
+msgid "location"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:802
+msgid "Start Today"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:805
+msgid "Continued"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:848
+msgid "Event Title"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:850 ../includes/shortcodes/shortcodes.
+#: php:2488
+msgid "Days"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:851
+msgid "Days Left"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:852
+msgid "Type"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:857
+msgid "Preview"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1115
+msgid "All Types"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1241
+msgid "All Locations"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1314
+msgid "Album"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1315 ../includes/post-types/post-types.
+#: php:1316
+msgid "Add New Album"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1317
+msgid "Edit Album"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1318
+msgid "New Album"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1319
+msgid "View Album"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1321
+msgid "No albums found"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1322
+msgid "No albums found in Trash"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1384
+msgid "Gallery Preview"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1551
+msgid "Add New Slider Item"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1552
+msgid "Edit Slider Item"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1553
+msgid "New Slider Item"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1554
+msgid "View Slider Item"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1556
+msgid "No slider items found"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1557
+msgid "No slider items found in Trash"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1570
+msgid "sliders"
+msgstr ""
+
+#: ../includes/post-types/post-types.php:1595
+msgid "Slider ID"
+msgstr ""
+
+#. Name of the plugin
+msgid "Noisa"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:51 ../includes/post-types/scamp-player.
+#: php:52 ../includes/widgets/widget-tracks.php:76
+msgid "Tracks"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:54
+msgid "Add New Tracks"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:55
+msgid "Edit Tracks"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:56
+msgid "New Tracks"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:57
+msgid "View Tracks"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:58
+msgid "Search Tracks"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:59
+msgid "No tracks found"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:60
+msgid "No tracks found in Trash"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:98
+msgid "Tracks ID"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:171
+msgid "Play"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:172
+msgid "Cover"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:173
+msgid "Title/Artist"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:174
+msgid "Buy/Download"
+msgstr ""
+
+#: ../includes/post-types/scamp-player.php:295
+msgid "Custom Title"
+msgstr ""
+
+#: ../includes/post-types/classes/class-r-custom-posts.php:78 ../includes/post-
+#: types/classes/class-r-custom-posts.php:140
+msgid "Sort Items"
+msgstr ""
+
+#: ../includes/post-types/classes/class-r-custom-posts.php:148
+msgid "Edit This Post"
+msgstr ""
+
+# @ noisa_plugin
+# @ Twitter Widget
+#: ../includes/shortcodes/shortcodes-helpers.php:94 ../includes/widgets/widget-
+#: twitter.php:81
+msgid "ERROR: Missing API Key."
+msgstr ""
+
+# @ noisa_plugin
+# @ Twitter Widget
+#: ../includes/shortcodes/shortcodes-helpers.php:95 ../includes/widgets/widget-
+#: twitter.php:82
+msgid "ERROR: Missing API Secret."
+msgstr ""
+
+# @ noisa_plugin
+# @ Twitter Widget
+#: ../includes/shortcodes/shortcodes-helpers.php:96 ../includes/widgets/widget-
+#: twitter.php:83
+msgid "ERROR: Missing Twitter Feed User Name."
+msgstr ""
+
+# @ noisa_plugin
+# @ Twitter Widget
+#: ../includes/shortcodes/shortcodes-helpers.php:199 ../includes/widgets/widget-
+#: twitter.php:194
+msgid "ago"
+msgstr ""
+
+# @ noisa_plugin
+# @ Twitter Widget
+#: ../includes/shortcodes/shortcodes-helpers.php:210 ../includes/widgets/widget-
+#: twitter.php:215
+msgid "ERROR: Username not exists or Twitter API error."
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/shortcodes.php:129
+msgid "Slider error: Slider has no pictures or doesn't exists."
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/shortcodes.php:183
+msgid "Slider Image"
+msgstr ""
+
+#: ../includes/shortcodes/shortcodes.php:224 ../includes/shortcodes/shortcodes.
+#: php:381 ../includes/shortcodes/shortcodes.php:669 ../includes/shortcodes/vc-
+#: extend.php:473 ../includes/shortcodes/vc-extend.php:705
+msgid "Play List"
+msgstr ""
+
+#: ../includes/shortcodes/shortcodes.php:259 ../includes/shortcodes/shortcodes.
+#: php:331 ../includes/shortcodes/shortcodes.php:419 ..
+#: includes/shortcodes/shortcodes.php:518 ../includes/shortcodes/shortcodes.php:
+#: 630
+msgid "Cover Image"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/shortcodes.php:1055
+msgid "Please enable your JavaScript in your browser, to view our location."
+msgstr ""
+
+#: ../includes/shortcodes/shortcodes.php:1145 ../includes/shortcodes/shortcodes.
+#: php:1285 ../includes/shortcodes/shortcodes.php:1292 ..
+#: includes/shortcodes/shortcodes.php:1426 ../includes/shortcodes/shortcodes.php:
+#: 1587 ../includes/shortcodes/shortcodes.php:1615 ..
+#: includes/shortcodes/shortcodes.php:1729 ../includes/shortcodes/shortcodes.php:
+#: 1979 ../includes/shortcodes/shortcodes.php:2193 ..
+#: includes/shortcodes/shortcodes.php:2205
+msgid "Post Image"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/shortcodes.php:1164
+msgid "View More Posts"
+msgstr ""
+
+#: ../includes/shortcodes/shortcodes.php:2022 ../includes/shortcodes/shortcodes.
+#: php:2041
+msgid "Past Event"
+msgstr ""
+
+#: ../includes/shortcodes/shortcodes.php:2348 ../includes/shortcodes/shortcodes.
+#: php:2355
+msgid "Gallery thumbnail"
+msgstr ""
+
+#: ../includes/shortcodes/shortcodes.php:2489
+msgid "Hours"
+msgstr ""
+
+#: ../includes/shortcodes/shortcodes.php:2490
+msgid "Minutes"
+msgstr ""
+
+#: ../includes/shortcodes/shortcodes.php:2491
+msgid "Seconds"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:125
+msgid "Content Width"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:146
+msgid "Gradient From:"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:154
+msgid "Gradient To:"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:162
+msgid "Gradient Direction:"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:179
+msgid "Heading Line"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:195
+msgid "Lead Text"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:199 ../includes/shortcodes/vc-extend.php:
+#: 271 ../includes/shortcodes/vc-extend.php:332 ../includes/shortcodes/vc-extend.
+#: php:422 ../includes/shortcodes/vc-extend.php:546 ../includes/shortcodes/vc-
+#: extend.php:671 ../includes/shortcodes/vc-extend.php:778 ..
+#: includes/shortcodes/vc-extend.php:855 ../includes/shortcodes/vc-extend.php:
+#: 932 ../includes/shortcodes/vc-extend.php:1016 ../includes/shortcodes/vc-extend.
+#: php:1058 ../includes/shortcodes/vc-extend.php:1142 ../includes/shortcodes/vc-
+#: extend.php:1247 ../includes/shortcodes/vc-extend.php:1338 ..
+#: includes/shortcodes/vc-extend.php:1366 ../includes/shortcodes/vc-extend.php:
+#: 1446 ../includes/shortcodes/vc-extend.php:1517 ../includes/shortcodes/vc-
+#: extend.php:1583 ../includes/shortcodes/vc-extend.php:1669 ..
+#: includes/shortcodes/vc-extend.php:1771 ../includes/shortcodes/vc-extend.php:
+#: 1857 ../includes/shortcodes/vc-extend.php:1959 ../includes/shortcodes/vc-
+#: extend.php:2057 ../includes/shortcodes/vc-extend.php:2164 ..
+#: includes/shortcodes/vc-extend.php:2232 ../includes/shortcodes/vc-extend.php:
+#: 2299
+msgid "by Rascals"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:214 ../includes/shortcodes/vc-extend.php:
+#: 365 ../includes/shortcodes/vc-extend.php:489 ../includes/shortcodes/vc-extend.
+#: php:614 ../includes/shortcodes/vc-extend.php:721 ../includes/shortcodes/vc-
+#: extend.php:822 ../includes/shortcodes/vc-extend.php:1031 ..
+#: includes/shortcodes/vc-extend.php:1344 ../includes/shortcodes/vc-extend.php:
+#: 1557 ../includes/shortcodes/vc-extend.php:1745 ../includes/shortcodes/vc-
+#: extend.php:1933
+msgid "Extra class name"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:218 ../includes/shortcodes/vc-extend.php:
+#: 369 ../includes/shortcodes/vc-extend.php:493 ../includes/shortcodes/vc-extend.
+#: php:618 ../includes/shortcodes/vc-extend.php:725 ../includes/shortcodes/vc-
+#: extend.php:826 ../includes/shortcodes/vc-extend.php:1035 ..
+#: includes/shortcodes/vc-extend.php:1348 ../includes/shortcodes/vc-extend.php:
+#: 1561 ../includes/shortcodes/vc-extend.php:1749 ../includes/shortcodes/vc-
+#: extend.php:1937
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:276
+msgid "Select Slider ID"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:279
+msgid "Select slider ID."
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:328
+msgid "Single Track"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:337 ../includes/shortcodes/vc-extend.php:
+#: 783
+msgid "Track"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:341 ../includes/shortcodes/vc-extend.php:
+#: 431 ../includes/shortcodes/vc-extend.php:556 ../includes/shortcodes/vc-extend.
+#: php:680 ../includes/shortcodes/vc-extend.php:787
+msgid "Select track ID."
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:346 ../includes/shortcodes/vc-extend.php:
+#: 685 ../includes/shortcodes/vc-extend.php:1090 ../includes/shortcodes/vc-extend.
+#: php:2237
+msgid "Style"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:350 ../includes/shortcodes/vc-extend.php:
+#: 689
+msgid "Select player style."
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:355 ../includes/shortcodes/vc-extend.php:
+#: 479 ../includes/shortcodes/vc-extend.php:604 ../includes/shortcodes/vc-extend.
+#: php:711 ../includes/shortcodes/vc-extend.php:812
+msgid "Equalizer (effect)"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:360 ../includes/shortcodes/vc-extend.php:
+#: 484 ../includes/shortcodes/vc-extend.php:609 ../includes/shortcodes/vc-extend.
+#: php:716 ../includes/shortcodes/vc-extend.php:817
+msgid "Display track equalizer (effect)."
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:418
+msgid "Tracklist Grid"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:427 ../includes/shortcodes/vc-extend.php:
+#: 552 ../includes/shortcodes/vc-extend.php:667 ../includes/shortcodes/vc-extend.
+#: php:676
+msgid "Tracklist"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:436
+msgid "Tracks Per Row"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:444 ../includes/shortcodes/vc-extend.php:
+#: 578 ../includes/shortcodes/vc-extend.php:1627 ../includes/shortcodes/vc-extend.
+#: php:1720 ../includes/shortcodes/vc-extend.php:1815 ../includes/shortcodes/vc-
+#: extend.php:1908 ../includes/shortcodes/vc-extend.php:2017 ..
+#: includes/shortcodes/vc-extend.php:2092
+msgid "Gap"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:448 ../includes/shortcodes/vc-extend.php:
+#: 573 ../includes/shortcodes/vc-extend.php:582
+msgid "Number of visible tracks on screen."
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:453
+msgid "Tracklist Details"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:457
+msgid "Display tracklist titles and artists."
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:462 ../includes/shortcodes/vc-extend.php:
+#: 694
+msgid "Tracklist Button"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:466 ../includes/shortcodes/vc-extend.php:
+#: 698
+msgid "Display tracklist button."
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:471 ../includes/shortcodes/vc-extend.php:
+#: 596 ../includes/shortcodes/vc-extend.php:703 ../includes/shortcodes/vc-extend.
+#: php:1300 ../includes/shortcodes/vc-extend.php:1737 ../includes/shortcodes/vc-
+#: extend.php:1925
+msgid "Button Title"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:542
+msgid "Tracks Carousel"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:561 ../includes/shortcodes/vc-extend.php:
+#: 1523 ../includes/shortcodes/vc-extend.php:1635 ../includes/shortcodes/vc-
+#: extend.php:1704 ../includes/shortcodes/vc-extend.php:1823 ..
+#: includes/shortcodes/vc-extend.php:1892 ../includes/shortcodes/vc-extend.php:
+#: 2025 ../includes/shortcodes/vc-extend.php:2100 ../includes/shortcodes/vc-
+#: extend.php:2176
+msgid "Limit"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:569 ../includes/shortcodes/vc-extend.php:
+#: 1900
+msgid "Visible Tracks"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:587 ../includes/shortcodes/vc-extend.php:
+#: 1548 ../includes/shortcodes/vc-extend.php:1728 ../includes/shortcodes/vc-
+#: extend.php:1916
+msgid "Button Link"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:590 ../includes/shortcodes/vc-extend.php:
+#: 1731
+msgid "URL to release page."
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:774
+msgid "Single Album"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:792
+msgid "Album Title"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:800
+msgid "Album Artists"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:806
+msgid "Album Cover"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:851
+msgid "Tweets List"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:860 ../includes/shortcodes/vc-extend.php:
+#: 948
+msgid "Username"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:869 ../includes/shortcodes/vc-extend.php:
+#: 957
+msgid "API Key"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:878 ../includes/shortcodes/vc-extend.php:
+#: 966
+msgid "API Secret"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:887 ../includes/shortcodes/vc-extend.php:
+#: 975
+msgid "Replies"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:898 ../includes/shortcodes/vc-extend.php:
+#: 986
+msgid "Number of Tweets"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:928
+msgid "Tweets Slider"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:937
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1022
+msgid "Align"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1053
+msgid "Button"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1076 ../includes/shortcodes/vc-extend.php:
+#: 1313
+msgid "Button LINK."
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1081
+msgid "Size"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1085
+msgid "Select button size."
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1098 ../includes/shortcodes/vc-extend.php:
+#: 1270
+msgid "Icon"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1102 ../includes/shortcodes/vc-extend.php:
+#: 1274
+msgid "Select icon."
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1107 ../includes/shortcodes/vc-extend.php:
+#: 1404
+msgid "New Window"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1111
+msgid "Open link in new window/tab."
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1138
+msgid "Pricing Column"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1149
+msgid "Basic Plan"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1156
+msgid "Price"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1163
+msgid "Currency"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1170
+msgid "Price Period"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1184
+msgid "Target"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1197
+msgid "Button Text"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1204
+msgid "Important"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1243
+msgid "Icon Column"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1261
+msgid "Bolder Title"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1279
+msgid "Icon Place"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1331
+msgid "Details List"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1360
+msgid "Detail"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1379
+msgid "Texts"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1387
+msgid "Text as link"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1395
+msgid "URL"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1442
+msgid "Google Maps"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1453
+msgid "400"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1462
+msgid "Level 13, 2 Elizabeth St, Melbourne Victoria 3000 Australia"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1469
+msgid "Depth"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1471
+msgid "15"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1478
+msgid "Zoom Control"
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1489
+msgid "Scroll Whell"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1513
+msgid "Posts List"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1531
+msgid "Post IDs"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1535
+msgid ""
+"Fill this field with posts IDs separated by commas (,), to retrieve only "
+"them."
+msgstr ""
+
+# @ noisa_plugin
+#: ../includes/shortcodes/vc-extend.php:1551
+msgid "URL to blog page."
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1579
+msgid "Releases GRID"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1589 ../includes/shortcodes/vc-extend.php:
+#: 1675 ../includes/shortcodes/vc-extend.php:1777 ../includes/shortcodes/vc-
+#: extend.php:1863 ../includes/shortcodes/vc-extend.php:1988 ..
+#: includes/shortcodes/vc-extend.php:2063 ../includes/shortcodes/vc-extend.php:
+#: 2244
+msgid "Display"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1600 ../includes/shortcodes/vc-extend.php:
+#: 1686 ../includes/shortcodes/vc-extend.php:1788 ../includes/shortcodes/vc-
+#: extend.php:1874 ../includes/shortcodes/vc-extend.php:1999 ..
+#: includes/shortcodes/vc-extend.php:2074 ../includes/shortcodes/vc-extend.php:
+#: 2255
+msgid "Taxonomies"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1603 ../includes/shortcodes/vc-extend.php:
+#: 1689 ../includes/shortcodes/vc-extend.php:1791 ../includes/shortcodes/vc-
+#: extend.php:1877 ../includes/shortcodes/vc-extend.php:2002 ..
+#: includes/shortcodes/vc-extend.php:2077 ../includes/shortcodes/vc-extend.php:
+#: 2258
+msgid "Type slugs separated by commas. ex: dj-nando,general-midi,noisa"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1609 ../includes/shortcodes/vc-extend.php:
+#: 1695 ../includes/shortcodes/vc-extend.php:1797 ../includes/shortcodes/vc-
+#: extend.php:1883
+msgid "Order By"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1613 ../includes/shortcodes/vc-extend.php:
+#: 1699 ../includes/shortcodes/vc-extend.php:1801 ../includes/shortcodes/vc-
+#: extend.php:1887
+msgid "Select menu order."
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1618 ../includes/shortcodes/vc-extend.php:
+#: 1806 ../includes/shortcodes/vc-extend.php:2008 ../includes/shortcodes/vc-
+#: extend.php:2083
+msgid "Items Per Row"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1647 ../includes/shortcodes/vc-extend.php:
+#: 1835 ../includes/shortcodes/vc-extend.php:2112 ../includes/shortcodes/vc-
+#: extend.php:2188
+msgid "Last item will be a link with items counter."
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1665
+msgid "Releases Carousel"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1712
+msgid "Visible Releases"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1767
+msgid "Artists GRID"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1853
+msgid "Artists Carousel"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1919
+msgid "URL to artists page."
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:1977
+msgid "Display Type"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:2033
+msgid "Thumb Style"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:2053
+msgid "Gallery Albums"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:2160
+msgid "Gallery Images"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:2169
+msgid "Display Images from"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:2228
+msgid "Event Countdown"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:2264
+msgid "Select Custom Event"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:2273
+msgid "Custom Event ID"
+msgstr ""
+
+#: ../includes/shortcodes/vc-extend.php:2295
+msgid "Timeline"
+msgstr ""
+
+#. Name of the plugin
+msgid "Gallery Widget"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display latest tweets from twitter."
+msgstr ""
+
+#. Author of the plugin
+msgid "Rascals Themes"
+msgstr ""
+
+#: ../includes/widgets/widget-gallery.php:20
+msgid "Display gallery"
+msgstr ""
+
+#: ../includes/widgets/widget-gallery.php:32
+msgid "Gallery (RT)"
+msgstr ""
+
+#: ../includes/widgets/widget-gallery.php:86 ../includes/widgets/widget-recent-
+#: posts.php:123 ../includes/widgets/widget-tracks.php:80 ..
+#: includes/widgets/widget-twitter.php:243
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets/widget-gallery.php:102
+msgid "Display:"
+msgstr ""
+
+#: ../includes/widgets/widget-gallery.php:140
+msgid "Select Album:"
+msgstr ""
+
+#: ../includes/widgets/widget-gallery.php:153
+msgid "There are no albums available."
+msgstr ""
+
+#: ../includes/widgets/widget-gallery.php:164
+msgid "Last item as a button?"
+msgstr ""
+
+#: ../includes/widgets/widget-gallery.php:169
+msgid "Gallery link:"
+msgstr ""
+
+#: ../includes/widgets/widget-gallery.php:175
+msgid "Display limit:"
+msgstr ""
+
+#: ../includes/widgets/widget-gallery.php:198 ../includes/widgets/widget-tracks.
+#: php:178
+msgid "Only for Tracklist Grid:"
+msgstr ""
+
+#: ../includes/widgets/widget-gallery.php:200
+msgid "Items Per Row:"
+msgstr ""
+
+#. Name of the plugin
+msgid "Recent Posts Widget"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display recent posts."
+msgstr ""
+
+#: ../includes/widgets/widget-recent-posts.php:20
+msgid "Display recent posts containing featured image."
+msgstr ""
+
+#: ../includes/widgets/widget-recent-posts.php:32
+msgid "Recent Posts (RT)"
+msgstr ""
+
+#: ../includes/widgets/widget-recent-posts.php:116
+msgid "Recent Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-recent-posts.php:130
+msgid "Limit:"
+msgstr ""
+
+#. Name of the plugin
+msgid "Tracks Widget"
+msgstr ""
+
+#: ../includes/widgets/widget-tracks.php:20
+msgid "Display music tracks"
+msgstr ""
+
+#: ../includes/widgets/widget-tracks.php:32
+msgid "Tracks (RT)"
+msgstr ""
+
+#: ../includes/widgets/widget-tracks.php:105
+msgid "Select Tracks:"
+msgstr ""
+
+#: ../includes/widgets/widget-tracks.php:118
+msgid "There are no tracks available."
+msgstr ""
+
+#: ../includes/widgets/widget-tracks.php:133
+msgid "Type:"
+msgstr ""
+
+#: ../includes/widgets/widget-tracks.php:156
+msgid "Display list button"
+msgstr ""
+
+#: ../includes/widgets/widget-tracks.php:180
+msgid "Tracks Per Row:"
+msgstr ""
+
+#. Name of the plugin
+msgid "twitter_widget"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:20
+msgid "Display latest tweets from twitter"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:31
+msgid "Twitter (RT)"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:149
+msgid "ERROR: User access verification."
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:240
+msgid "Tweets"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:247
+msgid "Username:"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:251
+msgid "API key:"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:255
+msgid "API secret:"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:259
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:261
+msgid "20 is the maximum"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:267
+msgid "Display replies"
+msgstr ""

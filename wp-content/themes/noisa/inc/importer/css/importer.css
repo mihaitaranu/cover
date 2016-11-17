@@ -1,0 +1,73 @@
+
+#muttley-importer {
+	padding: 15px;
+}
+#muttley-importer-message, .muttley-importer-error {
+	background:#ffecce;
+	color:#e3302c;
+	border-color:#e9c59b;
+	display:block;
+	font-size:12px;
+	font-weight:700;
+	border-left:4px solid;
+	clear:both;
+	margin:10px 0;
+	padding:16px 30px 16px 24px;
+}
+ .muttley-importer-info {
+	background-color: #F5FAFD;
+	margin: 30px 0;
+	padding: 15px 20px;
+	color: #0C518F;
+	border: 2px solid #CAE0F3;
+	clear: both;
+	width: 90%;
+	line-height: 18px;
+}
+ .muttley-importer-warning {
+	background:#fefde2;
+  	color:#666;
+  	border: 2px solid #e5e181;
+	margin: 30px 0;
+	padding: 15px 20px;
+	clear: both;
+	width: 90%;
+	line-height: 18px;
+}
+
+ .muttley-importer-info h3, .muttley-importer-warning h3 {
+ 	color:#0C518F;
+ 	font-weight:400;
+ }
+.muttley-importer-info ul, .muttley-importer-warning ul {
+	padding-left: 20px;
+	list-style-position: inside;
+	list-style-type: square;
+}
+#muttley-importer-message.hidden {
+	display:none;
+}
+
+#muttley-importer-success {
+	display: none;
+}
+
+#muttley-importer-success h6 {
+	font-size:18px;
+	font-weight:400;
+}
+.muttley-importer-heading {
+	margin: 20px 0 40px;
+	padding: 0;
+	color: #32373c;
+	line-height: 1.2em;
+	font-size: 2.8em;
+	font-weight: 400;
+}
+
+.muttley-importer-content {
+	
+}
+#muttley-importer-image {
+
+}

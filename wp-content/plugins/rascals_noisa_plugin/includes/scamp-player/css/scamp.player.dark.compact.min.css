@@ -1,0 +1,35 @@
+.sp-player-container{height:48px}.sp-buttons-container{height:48px;padding-top:10px}.sp-track-details{height:40px}.sp-buttons-container a{font-size:22px;margin-right:0}
+.sp-buttons-container a.sp-play-button:before,#scamp_player.playing .sp-buttons-container a.sp-play-button:before,.sp-buttons-container a.sp-play-button:before,#scamp_player.sp-queue-loading .sp-buttons-container a.sp-queue-button:before,#scamp_player.loading .sp-buttons-container a.sp-play-button:before,.sp-buttons-container a.sp-queue-button:before,#scamp_player.sp-show-list .sp-buttons-container a.sp-queue-button:before{font-size:22px}
+.sp-buttons-container a.sp-play-button{width:18px;margin:0 20px}.sp-volume-container{margin-left:20px}.sp-buttons-container .sp-queue-button-container{margin-right:0}
+.sp-badge{top:-14px;left:-10px;font-size:11px}.sp-progress{height:8px;margin-top:24px}.sp-progress .sp-loading,.sp-progress .sp-position{height:2px}.sp-time-elapsed,.sp-time-total{top:5px}
+.sp-track-cover .sp-track-artwork,.sp-cover-artwork img{max-width:36px;max-height:36px}.sp-track-title,.sp-track-artist{padding-left:45px;margin:0}.sp-progress-container:after{content:'';display:block;background-color:#373738;position:absolute;left:0;top:24px;width:100%;height:2px}
+.sp-track-artist,.sp-track-artist:hover{top:20px}.sp-track-title,.sp-track-artist{font-size:11px}#sp-queue-scroll th{padding:18px 10px}.sp-queue .sp-icon:before{font-size:18px}
+.sp-title a{display:block;font-size:12px}.sp-title a.sp-title-button{font-weight:bold;font-size:12px}.sp-title a.sp-title-button,.sp-title a.sp-artist-button{font-weight:normal;text-transform:none}
+.sp-marquee strong{font-weight:normal}.sp-progress .sp-position:after{content:'';width:8px;height:8px;border-radius:100%;background-color:#ff6239;position:absolute;top:-3px;right:-5px;transition:opacity 150ms;opacity:0}
+.sp-progress:hover .sp-position:after{opacity:1}.sp-progress-mobile:after{content:'';display:block;background-color:#373738;position:absolute;left:0;top:20px;width:100%;height:2px;margin-right:10px}
+.sp-queue-container{padding:16px 10px 6px 10px}.sp-progress-mobile:before{display:none}#sp-queue-scroll td{padding:6px 14px}#sp-queue-scroll th{padding:20px 10px}
+.sp-progress-mobile .sp-progress{margin-top:0;padding-top:0}.sp-progress-mobile{background-color:#111113;z-index:2;margin-top:0;overflow:hidden;height:48px;padding-top:20px}
+.sp-time-elapsed{left:0}.sp-time-total{right:0}.sp-progress-mobile:after{content:'';display:block;background-color:#373738;position:absolute;left:10px;top:20px;width:100%;height:2px;margin-right:10px}
+#sp-toggle:after{content:"\002B"}#scamp_player.sp-show-player #sp-toggle:after{content:"\00D7"}
+.sp-buttons-container a.sp-play-button:before{content:"\f04b"}#scamp_player.playing .sp-buttons-container a.sp-play-button:before{content:"\f04c"}
+#scamp_player.loading .sp-buttons-container a.sp-play-button:before{content:"\f110"}.sp-buttons-container a.sp-next-button:before{content:"\f051"}
+.sp-buttons-container a.sp-prev-button:before{content:"\f048"}.sp-buttons-container a.sp-volume-button:before{content:"\e61b"}
+.sp-buttons-container a.sp-queue-button:before{content:"\f0c9"}#scamp_player.sp-show-list .sp-buttons-container a.sp-queue-button:before{content:"\f00d"}
+#scamp_player.sp-queue-loading .sp-buttons-container a.sp-queue-button:before{content:"\e620"}.sp-track-control:before{content:"\f04b"}
+.sp-track.playing .sp-track-control:before{content:"\f04c"}.sp-cart-button:before{content:"\f291"}
+.sp-cart-button.sp-download-button:before{content:"\f019"}.sp-queue .sp-remove-button:before{content:"\f00d"}
+.sp-buttons-container a.sp-volume-button.sp-vol-max:before{content:"\f028"}.sp-buttons-container a.sp-volume-button.sp-vol-medium:before{content:"\f027"}
+.sp-buttons-container a.sp-volume-button.sp-vol-off:before{content:"\f026"}#scamp_player.sp-show-list .sp-buttons-container a.sp-queue-button:before{color:#ff6239}
+#sp-toggle{background-color:#0d0d0e;color:#FFF;border-radius:4px 4px 0 0;margin-right:10px;font-size:16px;width:24px;height:18px;font-weight:bold}.sp-show-list .sp-player-container:before{border-bottom:0}
+.sp-player-container{background-color:#0d0d0e}.sp-buttons-container{color:#222}.sp-buttons-container a{color:#FFF}.sp-buttons-container a:hover{color:#FFF}
+.sp-volume-bar-container,.sp-volume-bar-container:after{background:#0d0d0e}.sp-volume-slider{background-color:#0d0d0e}.sp-volume-position{background-color:#222}
+.sp-badge{background-color:#e05d6f;color:#fff}.sp-progress{background-color:transparent}.sp-progress:before,.sp-progress:after{display:none}.sp-progress .sp-loading{background-color:#3e3e40}
+.sp-progress .sp-position{background-color:#ff6239}#scamp_player.paused .sp-position{background-color:#ff6239}.sp-time-elapsed{color:#ff6239}.sp-time-total{color:#777}
+.sp-track-title,.sp-track-title:hover{color:#FFF}.sp-track-artist,.sp-track-artist:hover{color:#999}.sp-marquee-container{color:#999}.sp-marquee strong{color:#fff}
+.sp-queue-container{background-color:#111113}.sp-queue .sp-icon:before{color:#999}.sp-track.playing,.sp-track.paused,.sp-track.loading{background-color:rgba(111,111,111,0.1)}
+.sp-track:hover{background-color:rgba(111,111,111,0.1)}.sp-track.playing .sp-icon:before,.sp-track.paused .sp-icon:before,.sp-track.loading .sp-icon:before{color:#FFF}
+#sp-queue-scroll tr{border-color:#1b1b1d}#sp-queue-scroll th{color:#FFF}.sp-title a.sp-title-button{color:#FFF}.sp-title a.sp-artist-button{color:#999}
+.sp-queue .sp-icon:hover{color:#FFF}.sp-queue .sp-icon:hover:before{color:#FFF}#sp-scroller .iScrollIndicator{background-color:#666}#scamp-mobile-init{background-color:#333}
+.sp-volume-slider{background-color:transparent;margin-top:14px}.sp-volume-slider:after{content:'';background-color:#373738;position:absolute;width:100%;height:2px}
+.sp-volume-position{height:2px;background-color:#ff6239}.sp-volume-slider:hover .sp-volume-position:after{opacity:1}.sp-volume-position:after{content:'';width:8px;height:8px;border-radius:100%;background-color:#ff6239;position:absolute;top:-3px;right:-5px;transition:opacity 150ms;opacity:0}
+.sp-volume-bar-container{top:-54px;height:30px}#sp-empty-queue{text-transform:uppercase;background-color:#eee;font-size:9px;padding:2px 8px;line-height:normal;color:#222;border-radius:999em;letter-spacing:.08em;cursor:pointer}
